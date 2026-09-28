@@ -39,6 +39,6 @@ This web app allows users to generate QR codes instantly by entering any **text 
 3. QR code will be generated instantly
 4. Scan it using your mobile phone 📱
 
-⚠️ If the input field is empty, the app will **shake** to an error.
+⚠️ If the input field is empty, the app will **shake** to indi an error.
 
 ---
