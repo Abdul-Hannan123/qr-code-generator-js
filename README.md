@@ -12,7 +12,7 @@ This web app allows users to generate
 - 🎨 Clean and responsive UI
 - ⚠️ **Shake animation** when input is empty
 - ⚡ Fast and lightweight
-- 🌐 Uses a QR Code **API**
+- 🌐 Uses a QR Code **API** QR codes instantly by entering any **text or URL**.
 
 ---
 
