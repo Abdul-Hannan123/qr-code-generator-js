@@ -1,44 +1,26 @@
-# 🔳 QR Code Generator (HTML, CSS & JavaScript)
+# 💬 Random Quote Generator
 
-A simple and responsive **QR Code Generator** built using **HTML, CSS, and JavaScript**.  
-This web app allows users to generate an error.
+A simple and interactive **Random Quote Generator** built using **HTML, CSS, and JavaScript**. The app displays a random quote along with its author's name and allows users to generate a new quote with a single click. Users can also share the displayed quote directly on Twitter.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Generate QR codes for **text or URLs**
-- 📱 QR codes are **scannable on mobile devices**
-- 🎨 Clean and responsive UI
-- ⚠️ **Shake animation** when input is empty
-- ⚡ Fast and lightweight
-- 🌐 Uses a QR Code **API** QR codes instantly by entering any **text or URL**.
+- 💬 Generate a random quote
+- 🔄 Get a new quote by clicking the **New Quote** button
+- ✍️ Display the author's name
+- 🐦 Share the current quote on Twitter
+- 🎨 Clean and modern user interface
+- 📱 Responsive design
+- ⚡ Built with vanilla JavaScript
+- 🎯 Simple and easy-to-use interface
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla JS)**
-- **QR Code API**
-
----
-
-## 📷 Preview
-
-<img width="952" height="449" alt="result" src="https://github.com/user-attachments/assets/e4b2ae5a-f504-4ad2-9368-d8ee7614ac55" />
-
-
----
-
-## 📌 How to Use
-
-1. Enter any **text or URL** in the input field
-2. Click on **"Generate QR Code"**
-3. QR code will be generated instantly
-4. Scan it using your mobile phone 📱
-
-⚠️ If the input field is empty, the app will **shake** to indi an error.
+- **HTML5** – Structure of the application
+- **CSS3** – Styling, layout, and responsive design
+- **JavaScript** – Random quote generation and application logic
 
 ---
