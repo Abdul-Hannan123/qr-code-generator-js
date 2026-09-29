@@ -24,3 +24,12 @@ A simple and interactive **Random Quote Generator** built using **HTML, CSS, and
 - **JavaScript** – Random quote generation and application logic
 
 ---
+
+## 📸 How It Works
+
+1. The app displays a random quote when the page loads.
+2. The quote and its author's name are displayed on the screen.
+3. Click the **New Quote** button to generate another random quote.
+4. Click the **Tweet** button to open Twitter with the current quote ready to share.
+
+---
