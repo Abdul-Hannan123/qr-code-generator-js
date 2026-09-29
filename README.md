@@ -36,7 +36,7 @@ This web app allows users to generate an error.
 
 1. Enter any **text or URL** in the input field
 2. Click on **"Generate QR Code"**
-3. QR code will be generated instantly
+3. QR code will be generated 
 4. Scan it using your mobile phone 📱
 
 ⚠️ If the input field is empty, the app will **shake** to indi an error.
