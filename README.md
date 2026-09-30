@@ -48,3 +48,17 @@ This project was created to practice and improve JavaScript skills, especially:
 - Responsive web design
 
 ---
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
+
+- 🌐 Fetch quotes from a public API
+- 📋 Add a copy-to-clipboard button
+- ❤️ Add a favorite quotes feature
+- 💾 Save favorite quotes using Local Storage
+- 📤 Add sharing options for other social media platforms
+- ⏱️ Add automatic quote generation
+- 🌙 Add dark mode
+
+---
