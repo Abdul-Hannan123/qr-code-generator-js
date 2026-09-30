@@ -33,3 +33,18 @@ A simple and interactive **Random Quote Generator** built using **HTML, CSS, and
 4. Click the **Tweet** button to open Twitter with the current quote ready to share.
 
 ---
+
+## 🎯 Purpose of the Project
+
+This project was created to practice and improve JavaScript skills, especially:
+
+- Working with arrays and objects
+- Generating random values
+- DOM manipulation
+- Event handling
+- Updating HTML content dynamically
+- Working with links and URL parameters
+- Building interactive web applications
+- Responsive web design
+
+---
