@@ -59,6 +59,6 @@ Some possible improvements for this project include:
 - 💾 Save favorite quotes using Local Storage
 - 📤 Add sharing options for other social media platforms
 - ⏱️ Add automatic quote generation
-- 🌙 Add dark mode
+
 
 ---
