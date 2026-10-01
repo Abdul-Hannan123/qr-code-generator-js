@@ -65,7 +65,7 @@ Some possible improvements for this project include:
 
 ## 👨‍💻 Author
 
-Abdul Hannan
+Abdul Hannan Zahid | BSCS student | Frontend Developer
 
 Built with HTML, CSS & JavaScript.
 
