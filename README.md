@@ -8,7 +8,7 @@ A simple and interactive **Random Quote Generator** built using **HTML, CSS, and
 
 - 💬 Generate a random quote
 - 🔄 Get a new quote by clicking the **New Quote** button
-- ✍️ Display the author's name
+
 - 🐦 Share the current quote on Twitter
 - 🎨 Clean and modern user interface
 - 📱 Responsive design
