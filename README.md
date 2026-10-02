@@ -69,6 +69,6 @@ Abdul Hannan Zahid | BSCS student | Frontend Developer
 
 Built with HTML, CSS & JavaScript.
 
-⭐ If you like this project, consider giving the repository a star!
+⭐ If , consider giving the repository a star!
 
 ---
